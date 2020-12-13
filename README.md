@@ -1,4 +1,4 @@
-# Reportal
+# RePortal
 This is our submission for the SUP Free hackathon by Crowdpolicy
 
 ## Technologies Used:
